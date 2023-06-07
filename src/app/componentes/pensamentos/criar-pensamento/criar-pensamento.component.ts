@@ -20,4 +20,12 @@ export class CriarPensamentoComponent implements OnInit {
 
   }
 
+  criarPensamento() {
+    alert('Pensamento criado!')
+  }
+
+  cancelaPensamento() {
+    alert('Pensamento cancelado!')
+  }
+
 }
