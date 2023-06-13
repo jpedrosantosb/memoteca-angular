@@ -7,6 +7,17 @@ import { Component } from '@angular/core';
 })
 export class ListarPensamentoComponent {
 
-  listaPensamentos = [];
+  listaPensamentos = [
+    {
+      conteudo: 'Passo informações para o componente filho.',
+      autoria: 'Componente pai',
+      modelo: 'modelo3'
+    },
+    {
+      conteudo: 'Comunicação entre componentes.',
+      autoria: 'Componente filho',
+      modelo: 'modelo2'
+    }
+  ];
 
 }
