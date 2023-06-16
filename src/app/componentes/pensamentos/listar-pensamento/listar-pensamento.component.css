@@ -6,7 +6,7 @@
   margin: 1rem 0 2rem;
 }
 
-.d-flex{
+.d-flex {
   display: flex;
   flex-direction: column;
   gap: 2rem;

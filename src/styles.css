@@ -5,8 +5,13 @@
   padding: 0;
 }
 
-.ff-inter { font-family: 'Inter', sans-serif; }
-.ff-roboto-mono { font-family: 'Roboto Mono', monospace; }
+.ff-inter {
+  font-family: 'Inter', sans-serif;
+}
+
+.ff-roboto-mono {
+  font-family: 'Roboto Mono', monospace;
+}
 
 h1 {
   position: absolute;
@@ -54,21 +59,24 @@ h2 {
 
 @media (min-width: 576px) {
   .container {
-      width: 540px;
+    width: 540px;
   }
 }
+
 @media (min-width: 768px) {
   .container {
-      width: 720px;
+    width: 720px;
   }
 }
+
 @media (min-width: 992px) {
   .container {
-      width: 960px;
+    width: 960px;
   }
 }
+
 @media (min-width: 1200px) {
   .container {
-      width: 1140px;
+    width: 1140px;
   }
 }
