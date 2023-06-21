@@ -12,7 +12,8 @@ export class PensamentoComponent {
     id: 0,
     conteudo: 'Frase teste. Teste!',
     autoria: 'João',
-    modelo: 'modelo3'
+    modelo: 'modelo3',
+    favorito: false
   }
 
   larguraPensamento(): string {
@@ -22,4 +23,9 @@ export class PensamentoComponent {
     return 'pensamento-p'
   }
 
+  mudarIconeFavorito(): string {
+    if(this.pensamento.favorito == false) {
+      return 'inativo'
+    } else return 'ativo'
+  }
 }

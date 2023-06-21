@@ -4,90 +4,105 @@
       "id": 1,
       "conteudo": "Bom dia!! Estudando..",
       "autoria": "João",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": 2,
       "conteudo": "Estudando Angular...",
       "autoria": "Dev Alura",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 3,
       "conteudo": "Angular é o melhor!",
       "autoria": "Pedro",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "conteudo": "Hoje está muito frio!",
       "autoria": "Algum autor",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 4
     },
     {
       "id": 5,
       "conteudo": "Jotinha não é louco!",
       "autoria": "Jota",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "conteudo": "Seja a mudança que você quer ver no mundo",
       "autoria": "Mahatma Gandhi",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 6
     },
     {
       "conteudo": "Posso não concordar com o que você diz, mas defenderei até a morte o seu direito de dizê-lo",
       "autoria": "Voltaire",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 7
     },
     {
       "conteudo": "Para que o mal triunfe, basta que os bons não façam nada",
       "autoria": "Edmund Burke",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 8
     },
     {
       "conteudo": "Eu não posso mentir. Eu cortei a cerejeira",
       "autoria": "George Washington",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 9
     },
     {
       "conteudo": "Que comam brioche",
       "autoria": "Maria Antonieta",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 10
     },
     {
       "conteudo": "Você enfrentará muitas derrotas na vida, mas nunca se deixe ser derrotado.",
       "autoria": "Maya Angelou",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 11
     },
     {
       "conteudo": "A maior glória de viver não está em nunca cair, mas em nos levantar toda vez que caímos.",
       "autoria": "Nelson Mandela",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 12
     },
     {
       "conteudo": "No final das contas, não são os anos de sua vida que contam. É a vida em seus anos.",
       "autoria": "Abraham Lincoln",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 13
     },
     {
       "conteudo": "Eu quero sentir a minha vida enquanto eu estou nela.",
       "autoria": "Meryl Streep",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 14
     },
     {
       "conteudo": "O que vale na vida não é o ponto de partida e sim a caminhada. Caminhando e semeando, no fim terás o que colher.",
       "autoria": "Cora Coralina",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 15
     }
   ]
